@@ -1,5 +1,6 @@
 # BD1-project
 
+Projekt na przedmiot Bazy Danych, zespół trzyosobowy.
 
 
 ## Getting started
